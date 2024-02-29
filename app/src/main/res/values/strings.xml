@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Booking</string>
+    <string name="welcome_message" translatable="false">Bienvenido a Booking</string>
+    <string name="login_label" translatable="false">Ingreso</string>
+    <string name="signup_label" translatable="false">Unete con nosotros</string>
+    <string name="username_label" translatable="false">Nombre de usuario</string>
+    <string name="password_label" translatable="false">Contraseña</string>
+    <string name="book_humidity_zone" translatable="false">Reservación zona húmeda</string>
+    <string name="bill_food_products" translatable="false">Facturación productos alimenticios</string>
+</resources>
